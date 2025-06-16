@@ -3,7 +3,7 @@
 
 // Replace with your desired AP credentials
 const char* ssid     = "RCCarWiFi";
-const char* password = "26670606";
+const char* password = "";
 
 // Create an instance of the WebServer on port 80
 WebServer server(80);
