@@ -19,4 +19,6 @@
 | GPIO25         | IN4         |  
 | GPIO32         | EN2         |  
 
+## 👨‍💻 作者
+- [TatsuyaM2667](https://github.com/TatsuyaM2667)
 
