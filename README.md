@@ -18,7 +18,8 @@
 | GPIO33         | IN3         |  
 | GPIO25         | IN4         |  
 | GPIO32         | EN2         |  
-
+## License
+MIT License (Attribution Required — © 2025 TatsuyaM2667)
 ## 👨‍💻 作者
 - [TatsuyaM2667](https://github.com/TatsuyaM2667)
 
